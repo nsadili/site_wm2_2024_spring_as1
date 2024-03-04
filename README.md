@@ -31,15 +31,24 @@ additional reading and practicing. The requirements are simple:
   <li>Write native queries with some advanced SQL.</li>
 </ul>
 
+<h4> Bonus: (10 %) </h4>
+<ul>
+  <li><strong>Bonus (3%):</strong> Add Pagination to each view where you list entities.</li>
+  <li><strong>Bonus (3%):</strong> Add Sorting to each view where you list entities based on each field.</li>
+  <li><strong>Bonus (4%):</strong> Add Filtration to each view where you list entities based on each field.</li>
+</ul>
+
 <h4> Submission related: </h4>
 <ul>
   <li> Make sure you configured your git client (i.e., username and email is set). Use firstname_lastname as the
     username. </li>
-  <li> Please, also ensure that you regularly check, add and commit your changes to the remote repo so that we can see
+  <li> Please, also ensure that you regularly check, add and commit your changes to the remote repo so that we can
+    see
     your progress. </li>
   <li>Things to be submitted to the BB grader in a .zip format:
     <ol>
-      <li>Documentation pages of your app created by the Gradle, (during the development use javadoc comments appropriately)</li>
+      <li>Documentation pages of your app created by the Gradle, (during the development use javadoc comments
+        appropriately)</li>
       <li>This README.md file updated to have
         <ul>
           <li>the instructions on how to start and use the application</li>
@@ -52,7 +61,8 @@ additional reading and practicing. The requirements are simple:
 </ul>
 
 <p><b>Note:</b> Please work every day; this is definitely not a task you can complete on the last day!
-  To keep track of the progress, create a git repository, commit, and push each change (ideally at least every time you
+  To keep track of the progress, create a git repository, commit, and push each change (ideally at least every time
+  you
   complete a feature) to the repository.
   Ensure that you have at least <strong>1 commit a day</strong> STARTING from <strong>March 7<sup>th</sup></strong>
   otherwise you will lose points.
